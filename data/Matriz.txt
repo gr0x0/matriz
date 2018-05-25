@@ -1,0 +1,12 @@
+//ARQUIVO DE DADOS DA MATRIZ
+//
+//Sintaxe: dados são inseridos por linha. Os valores devem ser inseridos entre '[]' e separados
+//			por ','. Lembrando que a matriz deve obrigatoriamente ser quadrada e deve ser populada 
+//			apenas por '0's e '1's, representando "não-ligação" e "ligação" entre nodos do grafo, 
+//			respectivamente.
+//			Antes dos valores da matriz, deve ser inserido o número de linhas/ colunas entre '{}'.
+//
+{3}
+[1,1,0]
+[1,0,1]
+[0,1,0]
